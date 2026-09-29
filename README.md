@@ -6,6 +6,8 @@ Cada arquivo cobre um tema e traz fontes ao final, para quem quiser ir além.
 
 ## Conteúdo
 
+### Fundamentos e arquitetura
+
 1. [A evolução dos containers: do chroot até o Docker](01-evolucao-chroot-ate-docker.md)
 2. [Namespaces e cgroups: o isolamento por trás dos containers](02-namespaces-e-cgroups.md)
 3. [Como o Docker simplificou containers através de imagens versionadas](03-imagens-versionadas.md)
@@ -14,6 +16,17 @@ Cada arquivo cobre um tema e traz fontes ao final, para quem quiser ir além.
 6. [A arquitetura cliente-servidor do Docker e o Docker Daemon](06-arquitetura-cliente-servidor-docker-daemon.md)
 7. [Docker Engine e Docker Desktop: diferenças na hora de instalar](07-docker-engine-vs-docker-desktop.md)
 8. [A relação entre containers e a estrutura de sistemas operacionais](08-containers-e-sistema-operacional.md)
+
+### Gerenciando containers na prática
+
+9. [Os comandos básicos do Docker CLI](09-docker-cli-comandos-basicos.md)
+10. [O ciclo de vida de um container](10-ciclo-de-vida-container.md)
+11. [docker create vs docker run](11-docker-create-vs-run.md)
+12. [Visualizando, iniciando, pausando, parando e reiniciando containers](12-gerenciando-containers-ps-start-stop-restart.md)
+13. [Modo interativo e background](13-modo-interativo-e-background.md)
+14. [Docker Hub](14-docker-hub.md)
+15. [Removendo containers](15-removendo-containers.md)
+16. [A natureza efêmera dos containers](16-natureza-efemera-containers.md)
 
 ## Sobre
 
