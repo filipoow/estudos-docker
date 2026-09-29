@@ -28,6 +28,17 @@ Cada arquivo cobre um tema e traz fontes ao final, para quem quiser ir além.
 15. [Removendo containers](15-removendo-containers.md)
 16. [A natureza efêmera dos containers](16-natureza-efemera-containers.md)
 
+### Construindo imagens com Dockerfile
+
+17. [A anatomia de um Dockerfile: FROM, RUN, COPY, ADD e WORKDIR](17-anatomia-dockerfile-instrucoes-basicas.md)
+18. [A diferença entre CMD e ENTRYPOINT](18-cmd-vs-entrypoint.md)
+19. [Variáveis de ambiente para configuração dinâmica: ENV](19-variaveis-ambiente-env.md)
+20. [Gestão de portas: a instrução EXPOSE](20-gestao-de-portas-expose.md)
+21. [Otimização do build: cache e múltiplos estágios](21-cache-e-multistage-builds.md)
+22. [O arquivo .dockerignore](22-dockerignore.md)
+23. [Publicando imagens Docker em registries](23-publicando-imagens-registries.md)
+24. [Como CMD e ENTRYPOINT podem ser usados em conjunto](24-cmd-entrypoint-em-conjunto.md)
+
 ## Sobre
 
 Material de estudo pessoal, escrito enquanto eu aprendia. Pode ter imprecisões pontuais, correções são bem-vindas.
