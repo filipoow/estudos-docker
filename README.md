@@ -50,6 +50,17 @@ Cada arquivo cobre um tema e traz fontes ao final, para quem quiser ir além.
 31. [Removendo volumes inativos](31-removendo-volumes-inativos.md)
 32. [tmpfs para armazenamento temporário](32-tmpfs-armazenamento-temporario.md)
 
+### Redes no Docker
+
+33. [A importância das Docker Networks e o isolamento por namespaces de rede](33-docker-networks-importancia-isolamento.md)
+34. [Os drivers de rede: bridge, host, none e overlay](34-drivers-de-rede-bridge-host-none-overlay.md)
+35. [Redes customizadas e resolução de nomes via DNS interno](35-redes-customizadas-dns-interno.md)
+36. [docker network create, inspect e connect](36-docker-network-create-inspect-connect.md)
+37. [Executando containers em redes específicas](37-executando-containers-em-redes-especificas.md)
+38. [Testando a comunicação com ping e curl](38-testando-comunicacao-ping-curl.md)
+39. [Troubleshooting de rede em containers](39-troubleshooting-rede-containers.md)
+40. [Removendo containers e redes](40-removendo-containers-e-redes.md)
+
 ## Sobre
 
 Material de estudo pessoal, escrito enquanto eu aprendia. Pode ter imprecisões pontuais, correções são bem-vindas.
