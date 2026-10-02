@@ -39,6 +39,17 @@ Cada arquivo cobre um tema e traz fontes ao final, para quem quiser ir além.
 23. [Publicando imagens Docker em registries](23-publicando-imagens-registries.md)
 24. [Como CMD e ENTRYPOINT podem ser usados em conjunto](24-cmd-entrypoint-em-conjunto.md)
 
+### Volumes e persistência de dados
+
+25. [A importância de volumes para persistência de dados](25-volumes-persistencia-de-dados.md)
+26. [Criando e gerenciando volumes](26-criando-gerenciando-volumes.md)
+27. [Named Volumes, Bind Mounts e tmpfs](27-tipos-de-mounts.md)
+28. [Mapeando volumes com a opção --mount](28-mapeando-volumes-mount.md)
+29. [Backup e restauração de volumes](29-backup-restauracao-volumes.md)
+30. [Boas práticas de segurança e gestão de dados persistentes](30-seguranca-gestao-dados-persistentes.md)
+31. [Removendo volumes inativos](31-removendo-volumes-inativos.md)
+32. [tmpfs para armazenamento temporário](32-tmpfs-armazenamento-temporario.md)
+
 ## Sobre
 
 Material de estudo pessoal, escrito enquanto eu aprendia. Pode ter imprecisões pontuais, correções são bem-vindas.
